@@ -1,2 +1,2 @@
 # EmpTrack
-EmpTrack is a full-stack Employee Management System designed to help organizations efficiently store, organize, and access employee records. Developed using Angular, Bootstrap, Spring Boot, and Hibernate, the system offers core features such as search and sorting by name or employee ID, enabling fast and user-friendly data management.
+EmpTrack is a simple employee Management System built with Spring Boot for the backend, featuring account CRUD, insert, and update operations. It uses DTOs, Hibernate, ModelMapper and RESTful APIs for clean and efficient data handling.
